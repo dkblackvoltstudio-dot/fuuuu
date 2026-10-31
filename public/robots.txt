@@ -1,0 +1,6 @@
+# Robots.txt for Hinton Evolution Tech
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ais-pre-6tzapbwj2nfmidms25f2ed-454837743083.asia-southeast1.run.app/sitemap.xml

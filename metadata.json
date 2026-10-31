@@ -1,0 +1,6 @@
+{
+  "name": "Hinton Evolution Tech",
+  "description": "Digital built around your next move. Websites, apps, software, and marketing in Durgapur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
